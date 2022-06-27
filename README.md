@@ -1,5 +1,5 @@
 ([![MasterHead](https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif)
-<h1 align="center">Hi 👋, I'm Rudresh Jha</h1>
+<h1 align="center">Hi 👋, I'm Rudresh Kumar Jha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8,quality-100/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
 <p align="left"> <a href="https://twitter.com/therudresh" target="blank"><img src="https://img.shields.io/twitter/follow/therudresh?logo=twitter&style=for-the-badge" alt="therudresh" /></a> </p>
