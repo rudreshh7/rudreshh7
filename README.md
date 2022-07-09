@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Rudresh Jha</h1>
-<h3 align="center"> Front end developer </h3>
+<h3 align="center"> Front end developer🍎🤖 </h3>
 <img align="right" alt="Coding" width="400" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8,quality-100/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
 <p align="left"> <a href="https://twitter.com/therudresh" target="blank"><img src="https://img.shields.io/twitter/follow/therudresh?logo=twitter&style=for-the-badge" alt="therudresh" /></a> </p>
 
@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Front End Projects**
 
-- 📝 I regularly write articles on [https://therudresh.hashnode.dev/](https://therudresh.hashnode.dev/)
+- 📝 I monthly write articles on [https://therudresh.hashnode.dev/](https://therudresh.hashnode.dev/)
 
 - 💬 Ask me about **HTML , CSS , JavaScript ,C++, Figma **
 
@@ -36,6 +36,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rudreshh7&show_icons=true&locale=en&layout=compact" alt="rudreshh7" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rudreshh7&show_icons=true&locale=en" alt="rudreshh7" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rudreshh7&" alt="rudreshh7" /></p>
