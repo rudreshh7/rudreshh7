@@ -59,17 +59,7 @@
 ![](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-## My GitHub Status 📊
-![](https://github-readme-stats.vercel.app/api?username=kumartul&show_icons=true&theme=dark&count_private=true&show_icons=true)
 
-## My Top Languages 🔼
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kumartul&theme=dark&langs_count=10)
-
-## My Streak 📉
-![](https://github-readme-streak-stats.herokuapp.com/?user=kumartul&theme=dark)
-
-## My Contribution Graph 🙌
-![](https://activity-graph.herokuapp.com/graph?username=kumartul&theme=react-dark)
 
 ---
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rudreshh7&show_icons=true&locale=en&layout=compact" alt="rudreshh7" /></p>
