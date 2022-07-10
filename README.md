@@ -28,6 +28,7 @@
 <a href="https://www.leetcode.com/https://leetcode.com/rudreshhhh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/rudreshhhh/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/kumarrudresh5/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/kumarrudresh5/profile" height="30" width="40" /></a>
 </p>
+
 ## My Skills 💪
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -56,8 +57,16 @@
 ![](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rudreshh7&show_icons=true&locale=en&layout=compact" alt="rudreshh7" /></p>
+## My GitHub Status 📊
+![](https://github-readme-stats.vercel.app/api?username=rudreshh7&show_icons=true&theme=dark&count_private=true&show_icons=true)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rudreshh7&show_icons=true&locale=en" alt="rudreshh7" /></p>
+## My Top Languages 🔼
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rudreshh7&theme=dark&langs_count=10)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rudreshh7&" alt="rudreshh7" /></p>
+## My Streak 📉
+![](https://github-readme-streak-stats.herokuapp.com/?user=rudreshh7&theme=dark)
+
+## My Contribution Graph 🙌
+![](https://activity-graph.herokuapp.com/graph?username=rudreshh7&theme=react-dark)
+
+---
