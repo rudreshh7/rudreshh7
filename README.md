@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on [https://therudresh.hashnode.dev/](https://therudresh.hashnode.dev/)
 
-- 💬 Ask me about **HTML , CSS , JavaScript ,C++, Figma , Adobe XD**
+- 💬 Ask me about **HTML , CSS , JavaScript ,C++, Figma **
 
 - 📫 How to reach me **workforrudresh@gmail.com**
 
