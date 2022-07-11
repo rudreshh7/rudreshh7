@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rudresh Jha</h1>
 
-<h3 align="center"><samp> An Aspiring Front-End Web Developer 🤖 | An Open Source Contributor '💻| Web Designer</samp></h4></p>
+<h3 align="center"><samp> An Aspiring Front-End Web Developer 🧑💻 | An Open Source Contributor🤖 | Web Designer💻</samp></h4></p>
 <p align="left"> <a href="https://twitter.com/therudresh" target="blank"><img src="https://img.shields.io/twitter/follow/therudresh?logo=twitter&style=for-the-badge" alt="therudresh" /></a> </p>
 
 
@@ -17,7 +17,7 @@
 
 - 👯 I’m looking to collaborate on **Front End Projects**
 
-- 📝 I regularly write articles on [https://therudresh.hashnode.dev/](https://therudresh.hashnode.dev/)
+- 📝 I sometimes write articles on [https://therudresh.hashnode.dev/](https://therudresh.hashnode.dev/)
 
 - 📫 How to reach me **rudreshjha18@gmail.com**
 
