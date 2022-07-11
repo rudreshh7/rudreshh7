@@ -9,8 +9,9 @@
 ![](https://raw.githubusercontent.com/amandewatnitrr/amandewatnitrr/main/header_.png)
 
 
-
-
+<div>
+<img align="right" src="https://raw.githubusercontent.com/amandewatnitrr/amandewatnitrr/main/terminal.gif" width="40%"/>
+<br>
 - 🔭 I’m currently working on **SkipSchool** 
 
 - 🌱 I’m currently learning **JavaScript**
@@ -20,7 +21,7 @@
 - 📝 I sometimes write articles on [https://therudresh.hashnode.dev/](https://therudresh.hashnode.dev/)
 
 - 📫 How to reach me **rudreshjha18@gmail.com**
-
+</div>
    
 <h3 align="left">Connect with me:</h3>
 <br>
