@@ -15,16 +15,43 @@
 - 📫 How to reach me **workforrudresh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/https://dev.to/rudreshhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/rudreshhh" height="30" width="40" /></a>
-<a href="https://twitter.com/therudresh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="therudresh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rudreshh7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rudreshh7/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/14626017/rudreshhhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/14626017/rudreshhhh" height="30" width="40" /></a>
-<a href="https://hashnode.com/https://therudresh.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://therudresh.hashnode.dev/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/rudreshjha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/rudreshjha" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/rudreshhhh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/rudreshhhh/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/kumarrudresh5/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/kumarrudresh5/profile" height="30" width="40" /></a>
-</p>
+<h3 align="center"><samp> An Aspiring Front-End Web Developer | An Open Source Contributor | Graphic Designer</samp></h4></p>
+   
+
+<br>
+<div align="center">
+<a href="https://www.linkedin.com/in/vaishnavi-vaishnav/">
+  <img alt="Vaishnavi's Linkdein"  width="90px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/vaishnavi-vaishnav">
+  <img alt="Vaishnavi's Github" width="80px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/nerd.coder/">
+  <img alt="Vaishnavi's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+ 
+ <a href="https://wa.me/919460062371">
+  <img alt="swati's Coursera" width="95px" src="https://img.shields.io/badge/Whatsapp-rgb(77,194,71)?style=for-the-badge&logo=Whatsapp&logoColor=white" />
+</a>
+
+<a href="mailto:vaishnavivaishnav0000@gmail.com">
+  <img alt="Vaishnavi's mail" width="73px" src="https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" />
+</a>
+
+<a href="https://twitter.com/Webo_Tech">
+  <img  alt="Vaishnavi's Twitter" width="85px" src="https://img.shields.io/badge/Twitter-1da1f2?style=for-the-badge&logo=Twitter&logoColor=white" />
+  </a>
+
+<a href="https://vaishnavivaishnav00.medium.com/terminal-guide-to-web-development-in-2021-a3f7da700c73">
+  <img alt="Vaishnavi's blog" width="80px" src="https://img.shields.io/badge/Medium-c14438?style=for-the-badge&logo=Medium&logoColor=white" />
+</a>
+
+</div>
+![](https://raw.githubusercontent.com/amandewatnitrr/amandewatnitrr/main/header_.png)
+
+
 
 ## My Skills 💪
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
