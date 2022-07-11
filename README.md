@@ -17,11 +17,11 @@
 
 - 👯 I’m looking to collaborate on **Front End Projects**
 
-- 🎓 I’m pursuing Bachelors's in Computer Application from JECRC University 
+- 🎓 I’m pursuing **Bachelors's** in Computer Application from JECRC University 
 
 - 📝 I sometimes write articles on [https://therudresh.hashnode.dev/](https://therudresh.hashnode.dev/)
    
-- ♟️ I love playing chess and watching sci-fi movies and shows. 
+- ♟️ I love playing **Chess** and watching **sci-fi** movies and shows. 
    
 - 📫 How to reach me **rudreshjha18@gmail.com**
 </div>
