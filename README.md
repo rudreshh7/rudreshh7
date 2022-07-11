@@ -11,7 +11,7 @@
 
 <div>
    
-- 🔭 I’m currently working on **SkipSchool** 
+- 🔭 I’m currently working on **SkipSchool** Project
 
 - 🌱 I’m currently learning **JavaScript**
 
@@ -20,7 +20,9 @@
 - 🎓 I’m pursuing Bachelors's in Computer Application from JECRC University 
 
 - 📝 I sometimes write articles on [https://therudresh.hashnode.dev/](https://therudresh.hashnode.dev/)
-
+   
+- ♟️ I love playing chess and watching sci-fi movies and shows. 
+   
 - 📫 How to reach me **rudreshjha18@gmail.com**
 </div>
    
