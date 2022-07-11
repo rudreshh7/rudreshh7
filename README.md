@@ -55,16 +55,14 @@
 </div>
 
 
-## My GitHub Status 📊
-![](https://github-readme-stats.vercel.app/api?username=rudreshh7&show_icons=true&theme=dark&count_private=true&show_icons=true)
+<div align="center">
+ <h2>📈 GitHub Activity:</h2>
+   
+  <p align="center"> <img height="180px"  src="https://github-readme-stats.vercel.app/api?username=rudreshh7&show_icons=true&theme=react">
+  <p align="center">
+  <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=rudreshh7&theme=react" />
+  <img height="170px" width='375px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudreshh7&layout=compact&theme=react" />
 
-## My Top Languages 🔼
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rudreshh7&theme=dark&langs_count=10)
-
-## My Streak 📉
-![](https://github-readme-streak-stats.herokuapp.com/?user=rudreshh7&theme=dark)
-
-## My Contribution Graph 🙌
-![](https://activity-graph.herokuapp.com/graph?username=rudreshh7&theme=react-dark)
-
+</p>
+</div>
 ---
