@@ -66,7 +66,7 @@
    
   <p align="center"> <img height="180px"  src="https://github-readme-stats.vercel.app/api?username=rudreshh7&show_icons=true&theme=react">
   <p align="center">
-  <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=rudreshh7&theme=react" />
+<img height="180px"  src="https://github-readme-stats.vercel.app/api?username=rudreshh7&show_icons=true&theme=react">
   <img height="170px" width='375px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudreshh7&layout=compact&theme=react" />
 
 </p>
