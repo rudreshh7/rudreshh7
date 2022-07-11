@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rudresh Jha</h1>
 
-<h3 align="center"><samp> An Aspiring Front-End Web Developer | An Open Source Contributor | Graphic Designer</samp></h4></p>
+<h3 align="center"><samp> An Aspiring Front-End Web Developer 🤖 | An Open Source Contributor '💻| Web Designer</samp></h4></p>
 <p align="left"> <a href="https://twitter.com/therudresh" target="blank"><img src="https://img.shields.io/twitter/follow/therudresh?logo=twitter&style=for-the-badge" alt="therudresh" /></a> </p>
 
 - 🔭 I’m currently working on **SkipSchool**
@@ -19,31 +19,27 @@
 <h3 align="left">Connect with me:</h3>
 <br>
 <div align="center">
-<a href="https://www.linkedin.com/in/vaishnavi-vaishnav/">
+<a href="https://www.linkedin.com/in/therudreshkumar/">
   <img alt="Vaishnavi's Linkdein"  width="90px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
 
-<a href="https://github.com/vaishnavi-vaishnav">
+<a href="https://github.com/rudreshh7">
   <img alt="Vaishnavi's Github" width="80px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
 </a>
 
-<a href="https://www.instagram.com/nerd.coder/">
+<a href="https://www.instagram.com/rahul.codes">
   <img alt="Vaishnavi's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
  
- <a href="https://wa.me/919460062371">
-  <img alt="swati's Coursera" width="95px" src="https://img.shields.io/badge/Whatsapp-rgb(77,194,71)?style=for-the-badge&logo=Whatsapp&logoColor=white" />
-</a>
-
-<a href="mailto:vaishnavivaishnav0000@gmail.com">
+<a href="mailto:rudreshjha18@gmail.com">
   <img alt="Vaishnavi's mail" width="73px" src="https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" />
 </a>
 
-<a href="https://twitter.com/Webo_Tech">
+<a href="https://twitter.com/TheRudresh">
   <img  alt="Vaishnavi's Twitter" width="85px" src="https://img.shields.io/badge/Twitter-1da1f2?style=for-the-badge&logo=Twitter&logoColor=white" />
   </a>
 
-<a href="https://vaishnavivaishnav00.medium.com/terminal-guide-to-web-development-in-2021-a3f7da700c73">
+<a href="https://hashnode.com/@therudresh">
   <img alt="Vaishnavi's blog" width="80px" src="https://img.shields.io/badge/Medium-c14438?style=for-the-badge&logo=Medium&logoColor=white" />
 </a>
 
