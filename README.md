@@ -11,7 +11,7 @@
 
 
 
-- 🔭 I’m currently working on **SkipSchool**
+- 🔭 I’m currently working on **SkipSchool** 
 
 - 🌱 I’m currently learning **JavaScript**
 
@@ -19,9 +19,7 @@
 
 - 📝 I regularly write articles on [https://therudresh.hashnode.dev/](https://therudresh.hashnode.dev/)
 
-- 💬 Ask me about **HTML , CSS , JavaScript ,C++, Figma **
-
-- 📫 How to reach me **workforrudresh@gmail.com**
+- 📫 How to reach me **rudreshjha18@gmail.com**
 
    
 <h3 align="left">Connect with me:</h3>
