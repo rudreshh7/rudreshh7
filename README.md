@@ -10,8 +10,6 @@
 
 
 <div>
-<img align="right" src="https://raw.githubusercontent.com/amandewatnitrr/amandewatnitrr/main/terminal.gif" width="40%"/>
-<br>
 - 🔭 I’m currently working on **SkipSchool** 
 
 - 🌱 I’m currently learning **JavaScript**
