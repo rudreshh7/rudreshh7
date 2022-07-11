@@ -2,7 +2,14 @@
 
 <h3 align="center"><samp> An Aspiring Front-End Web Developer 🤖 | An Open Source Contributor '💻| Web Designer</samp></h4></p>
 <p align="left"> <a href="https://twitter.com/therudresh" target="blank"><img src="https://img.shields.io/twitter/follow/therudresh?logo=twitter&style=for-the-badge" alt="therudresh" /></a> </p>
+
+
+
+
 ![](https://raw.githubusercontent.com/amandewatnitrr/amandewatnitrr/main/header_.png)
+
+
+
 
 - 🔭 I’m currently working on **SkipSchool**
 
