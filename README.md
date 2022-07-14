@@ -4,11 +4,6 @@
 <p align="left"> <a href="https://twitter.com/therudresh" target="blank"><img src="https://img.shields.io/twitter/follow/therudresh?logo=twitter&style=for-the-badge" alt="therudresh" /></a> </p>
 
 
-
-
-![](https://raw.githubusercontent.com/amandewatnitrr/amandewatnitrr/main/header_.png)
-
-
 <div>
    
 - 🔭 I’m currently working on **SkipSchool** Project
