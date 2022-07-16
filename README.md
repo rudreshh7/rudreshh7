@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rudresh Jha</h1>
+<h1 align="center">Hi 👋 I'm Rudresh Jha</h1>
 
 <h3 align="center"><samp> Front-End Web Developer 🧑‍💻 </samp></h4></p>
 
@@ -11,8 +11,6 @@
 - 👯 I’m looking to collaborate on **Front End Projects**
 
 - 🎓 I’m pursuing **Bachelors's** in Computer Application from JECRC University 
-
-- 📝 I sometimes write articles on [https://therudresh.hashnode.dev/](https://therudresh.hashnode.dev/)
    
 - ♟️ I love playing **Chess** and watching **sci-fi** movies and shows. 
    
