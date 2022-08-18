@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Rudresh Jha</h1>
 
-<h3 align="center"><samp> Front-End Web Developer 🧑‍💻 </samp></h4></p>
+<h3 align="center"><samp> ReactJS Developer 🧑‍💻 </samp></h4></p>
 
 <div>
    
