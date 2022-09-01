@@ -55,7 +55,8 @@
 
 </div>
 
-
+<details>
+  <summary>📊 <b><i>GitHub Stats</i></b></summary>
 <div align="center">
  <h2>📈 GitHub Activity:</h2>
    
@@ -66,4 +67,4 @@
 
 </p>
 </div>
-
+</details>
