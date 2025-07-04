@@ -1,7 +1,3 @@
-Sure thing Mr. Rudr 👾 — here’s a **clean, emoji-free**, short-and-crisp version that fits perfectly on your GitHub README or profile:
-
----
-
 **Hey, I’m Rudresh (aka rudr)**
 Developer | Product Builder | UI/UX + Backend Specialist
 Currently building tools that combine great design with solid engineering.
@@ -21,7 +17,3 @@ Currently building tools that combine great design with solid engineering.
 
 * **[ProSensei](https://prosensei.vercel.app/)** – Minimal project and CRM dashboard
   *Next.js App Router, Prisma, PostgreSQL, Clerk, Tailwind*
-
----
-
-Let me know if you want a 1-liner version or collapsible sections too!
