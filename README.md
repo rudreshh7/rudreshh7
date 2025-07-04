@@ -1,40 +1,27 @@
-**Hey 👋, I’m Rudresh (a.k.a. rudr)**
-👨‍💻 Developer | Tech Tinkerer | Product Builder
-🚀 Currently shipping projects that blend great UI + powerful backend logic.
+Sure thing Mr. Rudr 👾 — here’s a **clean, emoji-free**, short-and-crisp version that fits perfectly on your GitHub README or profile:
 
-### 🔗 Portfolio
+---
 
-Check it out 👉 [rudresh.tech](https://www.rudresh.tech/)
+**Hey, I’m Rudresh (aka rudr)**
+Developer | Product Builder | UI/UX + Backend Specialist
+Currently building tools that combine great design with solid engineering.
 
-### 🛠️ What I'm Building Right Now
+**🔗 Portfolio:** [rudresh.tech](https://www.rudresh.tech/)
 
-#### [🧼 Cleanerp](https://cleanerp.vercel.app/)
+### Projects
 
-**ERP made *simpler* than ever —** Tailored for startups & small businesses
+* **[Cleanerp](https://cleanerp.vercel.app/)** – Simple ERP for startups & small businesses
+  *Next.js, Tailwind, PostgreSQL, Clerk, Drizzle ORM*
 
-> ✨ Think of it as Notion meets ERP
-> **Stack:** Next.js, Tailwind, PostgreSQL, Clerk Auth, Drizzle ORM
+* **[ApsaraUI](https://apsaraui.vercel.app/)** – Lightweight, modern UI component library
+  *React, TypeScript, Tailwind, ShadCN, Radix UI*
 
-#### [🧰 ApsaraUI](https://apsaraui.vercel.app/)
+* **[MechStore](https://mech.vercel.app/)** – Razorpay-integrated mechanical keyboard store
+  *Next.js, Prisma, PostgreSQL, Clerk, ImageKit*
 
-**A modern UI library built for 21st-century developers**
+* **[ProSensei](https://prosensei.vercel.app/)** – Minimal project and CRM dashboard
+  *Next.js App Router, Prisma, PostgreSQL, Clerk, Tailwind*
 
-> ⚡ Reusable, minimalist, production-ready React components
-> **Stack:** React, TypeScript, TailwindCSS, ShadCN + Radix UI
+---
 
-
-
-#### [⌨️ MechStore](https://mech.vercel.app/)
-
-**A mechanical keyboard store for enthusiasts**
-
-> 🛒 Razorpay-integrated checkout + clean UI
-> **Stack:** Next.js, Razorpay, Prisma, PostgreSQL, Clerk, ImageKit
-
-
-#### [📁 ProSensei](https://prosensei.vercel.app/)
-
-**Project Management, made Zen**
-
-> 🧘‍♂️ Drag & drop Kanban board, CRM-lite for freelancers
-> **Stack:** Next.js App Router, Prisma, PostgreSQL, Clerk Auth, TailwindCSS, Framer Motion
+Let me know if you want a 1-liner version or collapsible sections too!
