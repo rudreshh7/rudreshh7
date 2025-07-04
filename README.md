@@ -6,8 +6,6 @@
 
 Check it out 👉 [rudresh.tech](https://www.rudresh.tech/)
 
----
-
 ### 🛠️ What I'm Building Right Now
 
 #### [🧼 CleanerP](https://cleanerp.vercel.app/)
@@ -17,8 +15,6 @@ Check it out 👉 [rudresh.tech](https://www.rudresh.tech/)
 > ✨ Think of it as Notion meets ERP
 > **Stack:** Next.js, Tailwind, PostgreSQL, Clerk Auth, Drizzle ORM
 
----
-
 #### [🧰 ApsaraUI](https://apsaraui.vercel.app/)
 
 **A modern UI library built for 21st-century developers**
@@ -26,7 +22,7 @@ Check it out 👉 [rudresh.tech](https://www.rudresh.tech/)
 > ⚡ Reusable, minimalist, production-ready React components
 > **Stack:** React, TypeScript, TailwindCSS, ShadCN + Radix UI
 
----
+
 
 #### [⌨️ MechStore](https://mech.vercel.app/)
 
@@ -35,7 +31,6 @@ Check it out 👉 [rudresh.tech](https://www.rudresh.tech/)
 > 🛒 Razorpay-integrated checkout + clean UI
 > **Stack:** Next.js, Razorpay, Prisma, PostgreSQL, Clerk, ImageKit
 
----
 
 #### [📁 ProSensei](https://prosensei.vercel.app/)
 
@@ -43,5 +38,3 @@ Check it out 👉 [rudresh.tech](https://www.rudresh.tech/)
 
 > 🧘‍♂️ Drag & drop Kanban board, CRM-lite for freelancers
 > **Stack:** Next.js App Router, Prisma, PostgreSQL, Clerk Auth, TailwindCSS, Framer Motion
-
----
