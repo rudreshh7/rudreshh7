@@ -8,7 +8,7 @@ Check it out 👉 [rudresh.tech](https://www.rudresh.tech/)
 
 ### 🛠️ What I'm Building Right Now
 
-#### [🧼 CleanerP](https://cleanerp.vercel.app/)
+#### [🧼 Cleanerp](https://cleanerp.vercel.app/)
 
 **ERP made *simpler* than ever —** Tailored for startups & small businesses
 
