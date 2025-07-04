@@ -1,4 +1,4 @@
-**Hey 👋, I’m Rudresh (a.k.a. Rudy)**
+**Hey 👋, I’m Rudresh (a.k.a. rudr)**
 👨‍💻 Developer | Tech Tinkerer | Product Builder
 🚀 Currently shipping projects that blend great UI + powerful backend logic.
 
