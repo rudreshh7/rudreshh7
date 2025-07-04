@@ -1,5 +1,5 @@
 **Hey, I’m Rudresh (aka rudr)**
-Developer | Product Builder | UI/UX + Backend Specialist
+Developer | Product Builder | Full Stack Engineer
 Currently building tools that combine great design with solid engineering.
 
 **🔗 Portfolio:** [rudresh.tech](https://www.rudresh.tech/)
